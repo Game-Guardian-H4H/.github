@@ -38,6 +38,7 @@ Check out a video demo of our UI [here](https://youtube.com/shorts/R1fR_w2NNJQ)
   <img src="https://i.imgur.com/EItaVKS.png"
 height="auto" width="900" style="border-radius:50px"/>
 </p>
+
 ### Dynamic Time Controls
 
 <p align="center">
