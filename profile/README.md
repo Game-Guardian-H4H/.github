@@ -26,14 +26,24 @@ height="auto" width="900" style="border-radius:50px"/>
 
 <p align="center">
   <img src="https://i.imgur.com/YpCXTEH.gif"
-height="auto" width="900" style="border-radius:50px"/>
+height="auto" width="900" style="border-radius:0px"/>
 </p>
 
 
 ### Mobile Application
 
-![hi]()
+Check out a video demo of our UI [here](https://youtube.com/shorts/R1fR_w2NNJQ)
 
+<p align="center">
+  <img src="https://i.imgur.com/EItaVKS.png"
+height="auto" width="900" style="border-radius:50px"/>
+</p>
+### Dynamic Time Controls
+
+<p align="center">
+  <img src="https://i.imgur.com/KiqP5j3.gif"
+height="auto" width="900" style="border-radius:50px"/>
+</p>
 <p align="center">
   <img src="https://i.imgur.com/ZlZPxM1.gif"
 height="auto" width="900" style="border-radius:50px"/>
@@ -54,4 +64,4 @@ This project comprised three parts, all reliant on each other. First, we created
 
 Developing Game Guardian came with its fair share of challenges. One of the primary challenges we faced was integrating our service with Roblox using their Lua API to add content-aware restrictions. This required a significant amount of effort as we had to work with a different programming language than what we used for our backend and mobile app. Another challenge was ensuring that our platform could easily integrate with any video game, which required us to create a straightforward API that could seamlessly integrate with various games.
 
-Ultimately, the challenges just motivated us to work harder. Through them, we learned and became more flexible and adept programmers. 
+Ultimately, the challenges just motivated us to work harder. Through them, we learned and became more flexible and adept programmers.
